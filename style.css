@@ -1,4 +1,8 @@
 h1 {
-  color: red;
-  font-family: sans-serif
+  color: black;
+  font-family: "Times New Roman", "Futura", sans-serif;
+  <!-- 
+  times new roman and futura chosen for readablilty
+  -->
+  font-size: 40px;
 }
